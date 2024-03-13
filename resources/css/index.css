@@ -1,0 +1,44 @@
+* {
+    font-family: Helvetica, Arial, sans-serif;
+    box-sizing: border-box;
+  }
+
+  body{
+    margin: 0;
+    padding: 0;
+    background-color: #e3e0b7;
+  }
+
+.eu {
+  height: 800px;
+  background-image: url('../img/IMG_2029.jpg');
+  background-size: cover;
+  background-position: center;
+  display: flex;
+  margin-top: 50px;
+  position: relative; 
+}
+
+h1 {
+  color: white;
+  font-size: 50px;
+  text-align: left;
+}
+
+h2{
+  color: seagreen;
+}
+  
+  
+p, 
+li {
+  font-size: 18px;
+}
+  
+a {
+  text-decoration: none;
+}
+
+.barrasuperior{
+  display: inline-block;
+}
